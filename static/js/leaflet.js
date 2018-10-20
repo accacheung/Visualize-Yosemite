@@ -63,7 +63,7 @@ function createMap(trailheads, entrances) {
     center: [
       37.8651, -119.5383
     ],
-    zoom: 10,
+    zoom: 9,
     layers: [lightmap, trailheads, entrances]
   });
 
